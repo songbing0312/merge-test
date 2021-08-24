@@ -6,7 +6,7 @@ AUTH_OPENID=true
 BASE_SITE_URL=http://10.1.8.41/
 
 #cmp中的client 名称
-AUTH_OPENID_CLIENT_ID=jumpserver
+AUTH_OPENID_CLIENT_ID=jumpserver-master
 
 #client的secret
 AUTH_OPENID_CLIENT_SECRET=759383d7-aa5a-4e7c-8e91-20d3721257cd
