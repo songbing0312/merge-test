@@ -1,0 +1,4 @@
+所以将python脚本放在opt/upload_module/upload_module.py
+先解压所打包的扩展模块，会生成一个临时目录/tmp目录
+执行命令：
+python upload_module.py --module-file tmp/veeam-backup-3.0.1-offline.tar.gz --nexus-url http://IPADDRESS:8081 --nexus-user admin --nexus-passwd XXXXXX --docker-registry IPADDRESS:8082
